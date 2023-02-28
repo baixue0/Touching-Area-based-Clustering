@@ -1,0 +1,13 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = False
+TransformMatrix = 1 0 0 0 1 0 0 0 1
+Offset = 0 0 0
+CenterOfRotation = 0 0 0
+AnatomicalOrientation = RAI
+ElementSpacing = 0.33999999868683517 0.33999999868683517 0.33999999868683517
+DimSize = 200 200 100
+ElementType = MET_UINT
+ElementDataFile = D3459-half-dlseg_ws_crop.raw
